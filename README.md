@@ -1,5 +1,7 @@
+<h1 align="center">Hey, I'm Shivam 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shivam+%F0%9F%91%8B;AI+%26+ML+Student;DSA+in+C%2B%2B+%7C+Always+Learning" />
+  🎓 AI/ML Student &nbsp;|&nbsp; DSA in C++ &nbsp;|&nbsp; Always Learning
 </p>
 
 ---
@@ -24,9 +26,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fox-009&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fox-009&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" /> 🐱
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fox-009&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fox-009&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
