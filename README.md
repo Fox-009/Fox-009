@@ -23,17 +23,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fox-009&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" /> 🐱
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/shivam-srivastava-66a49b351">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
