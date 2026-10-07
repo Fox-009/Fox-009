@@ -1,21 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Student&descAlignY=58&descSize=18" width="100%" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DSA+in+C%2B%2B;Machine+Learning+with+Python;SQL+%26+MySQL;One+bug+at+a+time" />
+  <img src="./assets/terminal.svg" width="100%" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=18&pause=1000&color=FF6A00&background=00000000&center=true&vCenter=true&width=520&lines=DSA+in+C%2B%2B;Machine+Learning+with+Python;SQL+%26+MySQL;Building+with+Supabase" />
+</p>
 
-## 👨‍💻 About Me
+<img src="./assets/h-about.svg" width="100%" />
 
 - 🎓 Studying **Artificial Intelligence & Machine Learning**
 - 🧠 Sharpening problem-solving with **DSA in C++**
 - 🐍 Using **Python** and 🗄️ **MySQL** for data and ML
 - 🛠️ Building apps with **Supabase**
 
-<br>
-
-## 🔧 Currently Learning
+<img src="./assets/h-learning.svg" width="100%" />
 
 | Area | Focus |
 |------|-------|
@@ -24,40 +22,45 @@
 | 🗄️ Databases | MySQL |
 | 📱 Apps | Supabase |
 
-<br>
+<img src="./assets/h-projects.svg" width="100%" />
 
-## 🛠️ Tech Stack
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [Project name](https://github.com/Fox-009/repo-name) | One line about it | Python, Pandas |
+
+<img src="./assets/h-stack.svg" width="100%" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,mysql,supabase,git,github&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ff6a00&color=000000&labelColor=000000&label=%3E" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=ff6a00&color=000000&labelColor=000000&label=%3E" />
 </p>
 
-<br>
-
-## 📊 GitHub Stats
+<img src="./assets/h-stats.svg" width="100%" />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fox-009&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox-009&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fox-009&show_icons=true&bg_color=000000&title_color=ff6a00&text_color=ff8c1a&icon_color=ff6a00&border_color=ff6a00" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fox-009&layout=compact&bg_color=000000&title_color=ff6a00&text_color=ff8c1a&border_color=ff6a00" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fox-009&background=000000&stroke=ff6a00&ring=ff6a00&fire=ff8c1a&currStreakNum=ff6a00&sideNums=ff8c1a&currStreakLabel=ff6a00&sideLabels=ff8c1a&dates=7a3300&border=ff6a00" />
+</p>
 
-## 🔗 Connect with Me
+<img src="./assets/h-connect.svg" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-srivastava-66a49b351">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/linkedin.svg" height="64" />
   </a>
-  &nbsp;
+
+  &nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/fox-009/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="./assets/leetcode.svg" height="64" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
