@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="46" viewBox="0 0 800 46">
-<defs><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#3a1a00"/><stop offset="1" stop-color="#050505"/></linearGradient></defs>
-<style>.t{font-family:'Courier New',monospace;font-size:22px;font-weight:bold;fill:#ff6a00}.a{fill:#ff6a00}.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}@keyframes p{50%{opacity:.55}}.r{animation:p 2.4s ease-in-out infinite}</style>
-<g filter="url(#g)" class="r"><rect x="2" y="2" width="796" height="42" rx="6" fill="url(#f)" stroke="#ff6a00" stroke-width="2"/></g>
-<rect x="2" y="2" width="12" height="42" rx="3" class="a"/>
-<g filter="url(#g)"><text x="32" y="31" class="t">&gt; stats<tspan class="c">_</tspan></text></g>
-</svg>
